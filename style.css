@@ -34,6 +34,7 @@ main {
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: hsl(0, 10%, 90%);
 }
 
 .container {
